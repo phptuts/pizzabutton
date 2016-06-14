@@ -5,7 +5,7 @@
 
 
 // Your Token to Tweet (get it from http://arduino-tweet.appspot.com/)
-Twitter twitter("1252960609-bSp0TFj56FsDW3KCCOnGu1K46FZyUBKsQxn1UpM");
+Twitter twitter("YOUR_TWITTER_OAUTH_TOKEN ");
 
 // Message to post
 const char* ssid = "ChiconCollective-Guest";
